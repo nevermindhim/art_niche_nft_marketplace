@@ -12,11 +12,9 @@ Tools like the OpenZeppelin Wizard that offers developers click and write functi
 
 📂 Explore the App Repository
 
-For a deeper dive into the application that interacts with these smart contracts, I invite you to explore the [ArtNiche App Repository](https://github.com/sergio11/art_niche_nft_marketplace) to see the dynamic interaction between our NFT marketplace and its user-friendly interface.
+For a deeper dive into the application that interacts with these smart contracts, I invite you to explore the [ArtNiche App Repository](https://github.com/breavedev/art_niche_nft_marketplace) to see the dynamic interaction between our NFT marketplace and its user-friendly interface.
 
 📖 Explore Further
-
-For detailed information about this project, please take a closer look at [this Medium article](https://sanchezsanchezsergio418.medium.com/artniche-revolutionizing-the-world-of-digital-art-with-nfts-and-cutting-edge-architecture-a6cc50d0e8a6).
 
 Join to ArtNiche, the digital art revolution and unlock the potential of NFTs!
 
@@ -120,11 +118,3 @@ You can use the Remix IDE to interact with the contracts at those addresses:
 ## Visitors Count
 
 <img width="auto" src="https://profile-counter.glitch.me/art_collectibles_marketplace/count.svg" />
-
-## Please Share & Star the repository to keep me motivated.
-  <a href = "https://github.com/sergio11/art_collectibles_marketplace/stargazers">
-     <img src = "https://img.shields.io/github/stars/sergio11/art_collectibles_marketplace" />
-  </a>
-  <a href = "https://twitter.com/SergioReact418">
-     <img src = "https://img.shields.io/twitter/url?label=follow&style=social&url=https%3A%2F%2Ftwitter.com%2FSergioReact418" />
-  </a>
